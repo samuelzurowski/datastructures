@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "lec06"
+		},
+		{
+			"path": "lec05"
+		},
+		{
+			"path": "lec04"
+		},
+		{
+			"path": "lec03"
+		},
+		{
+			"path": "lec02"
+		},
+		{
+			"path": "lec01"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.js": "javascript",
+			"*.cpp": "cpp",
+			"ostream": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
